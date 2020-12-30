@@ -13,7 +13,7 @@ The purpose of this repository is to provide a cheap and simple way to heat any 
 
 Bill of Materials
 -  1 relay 5v - e.g this one: https://amzn.to/2vl4VVr
--  6 resistors 100 Ohm
+-  6 resistors 100 Ohm 0,6W
 -  1 small breadboard
 
 For assembly, simply solder the resistors in parallel onto the breadboard.
